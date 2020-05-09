@@ -1,17 +1,17 @@
 
 <template>
   <div id="app">
-    <Users  />
+    <Cube  />
   </div>
 </template>
 
 <script>
-import Users from './components/Users.vue'
+import Cube from './components/Cube.vue'
 
 export default {
   name: 'app',
   components: {
-    Users
+    Cube
   }
 }
 </script>
