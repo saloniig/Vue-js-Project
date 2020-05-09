@@ -10,6 +10,7 @@
 		</p>
 	</div>
 </template>
+
 <script>
 var cube = 0;
 export default {
@@ -28,7 +29,5 @@ export default {
 </script>
 
 <style>
-div{
-  background-image:url('http://www.allwhitebackground.com/images/5/Light-Background-HD-Images.jpg');
-}
+
 </style>
